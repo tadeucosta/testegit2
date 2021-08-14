@@ -7,6 +7,7 @@ public class Program {
 
 		System.out.println("Olá mundo - parte 2");
 		System.out.println("Alterado");
+		System.out.println("Alterado 2");
 	}
 
 }
